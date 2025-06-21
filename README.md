@@ -18,7 +18,7 @@ clone the project
 - `git clone https://github.com/ht-l1/mlb-history.git`
 
 set up, run, and end virtual environemnt 
-- `python -m venv env`
+- `python -m venv venv`
 - `venv\Scripts\activate`
 - `deactivate`
 
